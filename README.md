@@ -14,4 +14,8 @@ function MyButton() {
 
 export default MyButton;
 
+## To run vite
+Using Vite, the development server is started using the dev script instead of start.
 
+```javascript
+npm run dev
